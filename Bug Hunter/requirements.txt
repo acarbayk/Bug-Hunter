@@ -1,0 +1,8 @@
+openai
+langchain
+selenium
+stable-baselines3
+requests
+beautifulsoup4
+python-dotenv
+pytest 
